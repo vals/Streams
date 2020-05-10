@@ -9,5 +9,6 @@ Directory of notebook related to analysis done livestreaming on https://www.twit
 Comparing Slide-seq and Slide-seqV2
 
  - Part 1: https://www.youtube.com/watch?v=WT_lva-toKw
+ - Part 2: https://www.youtube.com/watch?v=Hds9MIti6e0
  
  
